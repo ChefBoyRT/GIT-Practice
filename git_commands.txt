@@ -1,0 +1,15 @@
+Git init			<=== adds directory to be tracked
+Git status 			<=== gets the status of the repository
+Git checkout -b (branch_name) 	<=== creates a new branches
+Git checkout (branch_name)	<=== switch branches
+Git add (filename) 		<=== stage files to be committed
+Git commit -m "present tense"	<=== commits changes with a message
+Git push origin (branch_name)	<=== merges local repository with remote repository
+Git checkout master		<=== switch to branch master
+Git pull origin master		<=== pulls the new master branch from remote repository
+Git branch -D (branch_name)	<=== delete branch names
+
+
+WEBSITE
+1.) pull request
+2.) merge documents
